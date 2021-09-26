@@ -1,2 +1,3 @@
-# Kickstarter-analysis
-Module 1 - Kickstarting with Excel Final Analysis
+# An Analysis of Kickstarter Campaigns
+Module 1 - Kickstarting with Excel Final Analysis - First Exercise! Very Excited! 
+![image_name](C:\Users\kenovy\Desktop\BoxSplot.png).
