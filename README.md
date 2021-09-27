@@ -16,16 +16,16 @@ This project was intended to help our customer to understand how fared their cam
 The only challenge I experienced was with the COUNTIFS() function and it was related to a mistake from my end, mixing the formula and writing incorrectly the value <=, using instead =< which caused me Excel return a value 0 as resulted. 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+*- What are two conclusions you can draw about the Outcomes based on Launch Date?*
 
 **1-** As a result of the analysis, it is notable that over the years during Q2 and Q3 is when we have the most successful theater campaigns and it´s the period where more campaigns are launched as well.
 
 **2-** The analysis told us that over October there is a slight increase in campaigns but they have not been as successful compared to those launched in Q2 and Q3. It means, that the best stage to launch campaings is on Q2 and Q3. 
 
-- What can you conclude about the Outcomes based on Goals?
+*- What can you conclude about the Outcomes based on Goals?*
 What the analysis shows us is that although we have a higher percentage of successful campaigns, we have a similar trend between successful and unsuccessful campaigns but in differente opposite, which suggests that we need to reconsider the goal pledged for these campaigns, specfically over the last Q4 of the year.
 
-- What are some limitations of this dataset?
+*- What are some limitations of this dataset?*
 
 - What are some other possible tables and/or graphs that we could create?
 **Theater Outcomes by Launch** Clustered column it might be an additional option to use. 
