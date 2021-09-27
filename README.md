@@ -27,8 +27,13 @@ What the analysis shows us is that although we have a higher percentage of succe
 
 *- What are some limitations of this dataset?*
 
-- What are some other possible tables and/or graphs that we could create?
-**Theater Outcomes by Launch** Clustered column it might be an additional option to use. 
+*- What are some other possible tables and/or graphs that we could create?*
+
+**Theater Outcomes by Launch** Clustered column could be an additional option to use. 
+
 ![Theater_Outcomes_vs_Launch_AdditionalOption](https://github.com/Kenovy/Kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch_AdditionalOption.png)
+
 **Outcomes_vs_Goals** A PivotTable could be a good option to process, sort and read the data easily 
+
 ![Outcomes_vs_Goals_AdditionalOption](https://github.com/Kenovy/Kickstarter-analysis/blob/main/Outcomes_vs_Goals_AdditionalOption.png)
+
