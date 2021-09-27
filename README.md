@@ -27,6 +27,7 @@ What the analysis shows us is that although we have a higher percentage of succe
 
 *- What are some limitations of this dataset?*
 I think the only limitation of this dataset was that the category and sucategory were in a single column, but it was fixed easily using the "Text to Column" function within excel. 
+
 *- What are some other possible tables and/or graphs that we could create?*
 
 **Theater Outcomes by Launch** Clustered column could be an additional option to use. 
