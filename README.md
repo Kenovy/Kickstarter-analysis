@@ -18,7 +18,8 @@ The only challenge I experienced was with the COUNTIFS() function and it was rel
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-**1-**As a result of the analysis, it is notable that over the years during Q2 and Q3 is when we have the most successful theater campaigns and it´s the period where more campaigns are launched as well.
+**1-** As a result of the analysis, it is notable that over the years during Q2 and Q3 is when we have the most successful theater campaigns and it´s the period where more campaigns are launched as well.
+
 **2-** The analysis told us that over October there is a slight increase in campaigns but they have not been as successful compared to those launched in Q2 and Q3. It means, that the best stage to launch campaings is on Q2 and Q3. 
 
 - What can you conclude about the Outcomes based on Goals?
