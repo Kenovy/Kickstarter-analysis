@@ -9,9 +9,9 @@ This project was intended to help our customer to understand how fared their cam
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![Theater_Outcomes_vs_Launch](path/to/image_name.png)
+![Theater_Outcomes_vs_Launch](https://github.com/Kenovy/Kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
-![Outcomes_vs_Goals](path/to/image_name.png)
+![Outcomes_vs_Goals](https://github.com/Kenovy/Kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
 The only challenge I experienced was with the COUNTIFS() function and it was related to a mistake from my end, mixing the formula and writing incorrectly the value <=, using instead =< which caused me Excel return a value 0 as resulted. 
 ## Results
@@ -28,6 +28,6 @@ What the analysis shows us is that although we have a higher percentage of succe
 
 - What are some other possible tables and/or graphs that we could create?
 **Theater Outcomes by Launch** Clustered column it might be an additional option to use. 
-![Theater_Outcomes_vs_Launch_AdditionalOption](path/to/image_name.png)
+![Theater_Outcomes_vs_Launch_AdditionalOption](https://github.com/Kenovy/Kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch_AdditionalOption.png)
 **Outcomes_vs_Goals** A PivotTable could be a good option to process, sort and read the data easily 
-![Outcomes_vs_Goals_AdditionalOption](path/to/image_name.png)
+![Outcomes_vs_Goals_AdditionalOption](https://github.com/Kenovy/Kickstarter-analysis/blob/main/Outcomes_vs_Goals_AdditionalOption.png)
